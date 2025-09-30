@@ -1,90 +1,63 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🎓 School Web Project  
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+This project is my **Final Project for the PLP Web Technologies (July 2025)** program.  
+It is a **multi-page responsive school website** designed to showcase the core web development skills learned throughout the course.  
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+The website is built using **HTML, CSS, and JavaScript**, and demonstrates clean structuring, styling, and interactivity.  
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 🚀 Live Demo  
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+👉 [View the Live Site on Netlify](https://maaimahiuboys.netlify.app/)  
+*(replace with your actual Netlify link after deployment)*  
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+## 📖 Table of Contents  
+- [About the Project](#about-the-project)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Project Structure](#project-structure)  
+- [Screenshots](#screenshots)  
+- [Installation & Setup](#installation--setup)  
+- [Usage](#usage)  
+- [Deployment](#deployment)  
+- [Future Improvements](#future-improvements)  
+- [Acknowledgements](#acknowledgements)  
+- [License](#license)  
 
 ---
 
-## Deliverables
+## 📚 About the Project  
 
-1. A GitHub repository containing:
+The **School Web Project** is designed as a simple but professional website for an educational institution.  
+It contains **multiple interconnected pages** to represent sections like the homepage, about page, services, contact page, and FAQs.  
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+The purpose of this project is to:  
+- Demonstrate **HTML for content structure**  
+- Showcase **CSS for styling & responsiveness**  
+- Add **JavaScript for interactivity and simple logic**  
+- Learn how to **deploy websites using GitHub and Netlify**  
 
 ---
 
-## Outcome
+## ✨ Features  
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+- 🌐 **Multi-page navigation** (Home, About, Services, Contact, FAQ)  
+- 📱 **Responsive design** for desktop, tablet, and mobile screens  
+- 🎨 **Modern styling** using custom CSS  
+- ⚡ **Interactive elements** powered by JavaScript  
+- 📄 **Clean project structure** for easy understanding  
+- ☁️ **Hosted on Netlify for live demo**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla JS)  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Netlify  
+
+---
+
